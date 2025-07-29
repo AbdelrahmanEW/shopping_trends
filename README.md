@@ -1,4 +1,5 @@
 # 🛒 Shopping Trends Analysis Project
+![Dashboard Preview](media/Screenshot%202025-07-29%20220927.png)
 
 ## 📊 Overview
 
