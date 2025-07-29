@@ -1,4 +1,5 @@
 # 🛒 Customer Purchase Behavior Analysis
+[](/media/Screenshot%202025-07-29%20220927.png)
 
 This project analyzes customer purchase behavior using data tools like **Excel**, **PostgreSQL**, **Power BI**, and **Jupyter Notebook**. The goal is to uncover actionable insights that help improve marketing strategies, boost customer loyalty, and increase revenue.
 
